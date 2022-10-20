@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images.screenshot.jpg)
-
+![](./images/screenshot.jpg)
 
 ### Links
 
@@ -40,10 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-### What I learned
-
-I made use of the new has CSS selector to select the parent element of an item I'm hovering over
 
 ## Author
 
